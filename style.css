@@ -1,0 +1,11 @@
+#word {
+    font-size: 52px;
+    letter-spacing: 0.2em;
+    color: brown;
+    margin: 5px;
+}
+
+.hide {
+    display: none;
+
+}
